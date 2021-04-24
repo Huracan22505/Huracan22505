@@ -1,4 +1,4 @@
-## Hi everyone 👋 im Alexander, but everyone calls me Huracan
+## Hi everyone 👋
 
 ### Full Stack Developer (React + Node)
 
