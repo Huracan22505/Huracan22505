@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-### Full Stack Developer (React + Node)
+### Full Stack Developer (React + Node) :computer:
 
 [![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505&theme=tokyonight)](https://github.com/huracan22505)
 
