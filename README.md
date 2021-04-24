@@ -2,6 +2,8 @@
 
 ### now studying coding course for JavaScript
 
+[![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505&theme=tokyonight)](https://github.com/huracan22505)
+
 ### STACK & TOOLS:
 
 [<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/git.png" />]()
@@ -20,8 +22,3 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/js.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/react.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/redux.png" />]()
-
-[![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505&theme=tokyonight)](https://github.com/huracan22505)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huracan22505&repo=30-movies-to-mars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
