@@ -2,9 +2,9 @@
 
 ### now studying coding course for JavaScript
 
-[![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505)](https://github.com/huracan22505)
+[![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505&theme=radical)](https://github.com/huracan22505)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huracan22505)](https://github.com/huracan22505/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huracan22505&theme=radical)](https://github.com/huracan22505/github-readme-stats)
 
 ### STACK & TOOLS:
 
