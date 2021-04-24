@@ -1,6 +1,6 @@
 ## Hi everyone 👋 im Alexander, but everyone calls me Huracan
 
-### now studying coding course for JavaScript
+### Full Stack Developer (React + Node)
 
 [![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505&theme=tokyonight)](https://github.com/huracan22505)
 
