@@ -4,6 +4,8 @@
 
 [![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505)](https://github.com/huracan22505)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huracan22505)](https://github.com/huracan22505/github-readme-stats)
+
 ### STACK & TOOLS:
 
 [<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/git.png" />]()
