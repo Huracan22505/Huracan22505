@@ -20,5 +20,3 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/js.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/react.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/redux.png" />]()
-
-[<p align="center"> <img src="https://komarev.com/ghpvc/?username=huracan22505&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </p>]()
