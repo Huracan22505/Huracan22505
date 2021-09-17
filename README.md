@@ -1,4 +1,4 @@
-## Full Stack Developer (React + Node) :computer:
+## Front End Developer :computer:
 
 [![Huracan's github stats](https://github-readme-stats.vercel.app/api?username=huracan22505&theme=tokyonight)](https://github.com/huracan22505)
 
